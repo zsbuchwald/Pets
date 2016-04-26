@@ -1,3 +1,4 @@
 Lena is a cat
 Greg is allergic.
 
+I am not allergic. 
